@@ -14,9 +14,8 @@ if(isset($_POST['search_sub'])) {
       <ul class='search-results fulltext'>
         <li class='search-result'>
           <div class='cover'>
-            <h4><a href='http://tattek.com/minoral/chat.html'>Chat</a></h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-            <a href='http://tattek.com/minoral/chat.html'>http://tattek.com/minoral/chat.html</a>
+            <h4></h4>
+            <p></p>
           </div>
         </li>
       </ul>
